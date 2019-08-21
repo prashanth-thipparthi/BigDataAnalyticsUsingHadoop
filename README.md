@@ -3,8 +3,33 @@
 ## Goal:
 The aim of the project is to classify bank customers into three categories like "gold", "silver" and "lead" by analysing their various financial related aspects. We analysed data using machine learning algorithm in Hadoop eco-system and various technologies like R, PIG, HIVE are utilised.
 
+#### Complete report of the project is at ![]().
 
- ## References:
+## Architecture:
+
+### High Level Design:
+
+![](images/HighLevelDesign.PNG)
+
+### Low Level Design:
+
+![](images/LowLevelDesign.PNG)
+
+## Results:
+
+### Some Parameters Scatter Plot:
+
+#### Average Salary Scatter Plot
+![](images/Average_Salary_ScatterPlot.PNG)
+#### LoanAmount Scatter Plot
+![](images/LoanAmount_ScatterPlot.PNG)
+
+![](images/)
+![](images/)
+![](images/)
+![](images/)
+
+## References:
 Sagiroglu, S.; Sinanc, D. (20-24 May 2013),"Big Data: A Review".  
 Mukherjee, A.; Datta, J.; Jorapur, R.; Singhvi, R.; Haloi, S.; Akram, W. (18-22 Dec. 2012) "Shared disk big data analytics with Apache Hadoop".  
 Aditya B. Patel, Manashvi Birla, Ushma Nair (6-8 Dec. 2012) "Addressing Big Data Problem Using Hadoop and Map Reduce".  	
