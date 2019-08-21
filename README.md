@@ -23,11 +23,12 @@ The aim of the project is to classify bank customers into three categories like 
 ![](images/Average_Salary_ScatterPlot.PNG)
 #### LoanAmount Scatter Plot
 ![](images/LoanAmount_ScatterPlot.PNG)
-
-![](images/)
-![](images/)
-![](images/)
-![](images/)
+#### Mined Patterns
+![](images/Mined_Patterns.PNG)
+#### Interpreting Mined Patterns
+![](images/Interpreting_MinedPatterns.PNG)
+#### Cluster Plot : Final Classification of the customers
+![](images/clusplot.PNG)
 
 ## References:
 Sagiroglu, S.; Sinanc, D. (20-24 May 2013),"Big Data: A Review".  
