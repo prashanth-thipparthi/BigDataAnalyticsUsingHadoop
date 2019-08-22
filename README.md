@@ -3,7 +3,7 @@
 ## Goal:
 The aim of the project is to classify bank customers into three categories like "gold", "silver" and "lead" by analysing their various financial related aspects. We analysed data using machine learning algorithm in Hadoop eco-system and various technologies like R, PIG, HIVE are utilised.
 
-#### Complete report of the project is at ![]().
+### Complete report of the project is at [here](https://docs.google.com/document/d/1aTGBdsdYLIca6uTJN9XPof_rkO1UUeGW).
 
 ## Architecture:
 
